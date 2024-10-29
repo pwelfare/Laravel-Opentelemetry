@@ -71,7 +71,7 @@
     "repositories": [
     {
         "type": "vcs",
-        "url": "https://gitlab.standardbank.co.za/C875281/php-sdk.git"
+        "url": "https://github.com/pwelfare/LARAVEL-SDK.git"
     }
 ],
     "scripts": {
